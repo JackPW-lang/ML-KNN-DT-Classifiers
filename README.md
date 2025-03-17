@@ -1,7 +1,5 @@
 # ML-KNN-DT-Classifiers  
 
-![MLInstance-TreeClassifiers](path/to/banner.png)  
-
 ![Python Version](https://img.shields.io/badge/Python-3.8+-blue)  
 ![License](https://img.shields.io/badge/License-MIT-green)  
 ![Last Commit](https://img.shields.io/github/last-commit/yourusername/your-repo)  
