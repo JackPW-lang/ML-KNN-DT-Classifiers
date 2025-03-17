@@ -6,6 +6,8 @@ This repository houses implementations of K-Nearest Neighbours &amp; Decision Tr
 
 As one of many group projects in the COMP551 Machine Learning course at McGill. Collaborators are solely those listed above. You can find the detailed LaTeX documentation here:
 
+[📄 Download Documentation (PDF)](https://github.com/JackPW-lang/ML-KNN-DT-Classifiers/raw/main/COMP_551_Assignment_1.pdf)
+
 # File Layout
 This repository contains the following python files:
 - The KNN class
