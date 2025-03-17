@@ -15,7 +15,7 @@ This project was developed as part of the **COMP551 Machine Learning** course at
 - **Alina Shimizu** - [GitHub Profile](https://github.com/alinashimizu)  
 - **Lucas Andrade** - [GitHub Profile](https://github.com/lucasandrdd)  
 
-📄 **LaTeX Documentation**: You can find the detailed documentation [here](link-to-pdf).  
+📄 **LaTeX Documentation**: You can find the detailed documentation [here](https://raw.githubusercontent.com/JackPW-lang/ML-KNN-DT-Classifiers/main/COMP_551_Assignment_1.pdf).  
 
 ---  
 
