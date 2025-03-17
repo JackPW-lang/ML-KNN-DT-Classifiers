@@ -1,16 +1,41 @@
-# MLInstance-TreeClassifiers
-This repository houses implementations of K-Nearest Neighbours &amp; Decision Tree Classifiers from scratch - done as a group project by:
-- Jack Parry-Wingfield https://github.com/JackPW-lang
-- Alina Shimizu https://github.com/alinashimizu
-- Lucas Andrade https://github.com/lucasandrdd
+# ML-KNN-DT-Classifiers  
 
-As one of many group projects in the COMP551 Machine Learning course at McGill. Collaborators are solely those listed above. You can find the detailed LaTeX documentation here:
+![MLInstance-TreeClassifiers](path/to/banner.png)  
 
-[📄 Download Documentation (PDF)](https://github.com/JackPW-lang/ML-KNN-DT-Classifiers/raw/main/COMP_551_Assignment_1.pdf)
+![Python Version](https://img.shields.io/badge/Python-3.8+-blue)  
+![License](https://img.shields.io/badge/License-MIT-green)  
+![Last Commit](https://img.shields.io/github/last-commit/yourusername/your-repo)  
 
-# File Layout
-This repository contains the following python files:
-- The KNN class
-- The DT class
-- The remaining python code where we preprocess two datasets (one for binary classification and one for multiple classes) and run experiments to observe our models' performance. The results, along with details on the datasets and the preprocessing are detailed in the above pdf document.
+🚀 **MLInstance-TreeClassifiers** is a **hands-on machine learning project** that dives deep into the fundamentals of classification models. Built from scratch, this repository features **K-Nearest Neighbors (KNN)** and **Decision Trees (DT)**, implemented with a focus on clarity and performance.  
 
+---  
+
+## 👥 Collaborators  
+This project was developed as part of the **COMP551 Machine Learning** course at **McGill University**.  
+
+🔹 **Jack Parry-Wingfield** - [GitHub Profile](https://github.com/JackPW-lang)  
+🔹 **Alina Shimizu** - [GitHub Profile](https://github.com/alinashimizu)  
+🔹 **Lucas Andrade** - [GitHub Profile](https://github.com/lucasandrdd)  
+
+📄 **LaTeX Documentation**: You can find the detailed documentation [here](link-to-pdf).  
+
+---  
+
+## ✨ Features  
+✅ **Custom-built KNN & Decision Tree classifiers**  
+✅ **Dataset preprocessing & analysis**  
+✅ **Performance evaluation on multiple datasets**  
+✅ **Comprehensive LaTeX documentation**  
+
+---  
+
+## 📂 File Layout  
+This repository contains the following Python files:  
+
+- 📌 **The KNN class**  
+- 📌 **The Decision Tree (DT) class**  
+- 📌 **Preprocessing & Experimentation**: Code for processing two datasets (one for binary classification, one for multi-class) and evaluating model performance.  
+
+📄 Detailed results and dataset preprocessing details are included in the documentation.  
+
+---  
