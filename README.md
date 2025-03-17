@@ -11,19 +11,19 @@
 ## 👥 Collaborators  
 This project was developed as part of the **COMP551 Machine Learning** course at **McGill University**.  
 
-🔹 **Jack Parry-Wingfield** - [GitHub Profile](https://github.com/JackPW-lang)  
-🔹 **Alina Shimizu** - [GitHub Profile](https://github.com/alinashimizu)  
-🔹 **Lucas Andrade** - [GitHub Profile](https://github.com/lucasandrdd)  
+- **Jack Parry-Wingfield** - [GitHub Profile](https://github.com/JackPW-lang)  
+- **Alina Shimizu** - [GitHub Profile](https://github.com/alinashimizu)  
+- **Lucas Andrade** - [GitHub Profile](https://github.com/lucasandrdd)  
 
 📄 **LaTeX Documentation**: You can find the detailed documentation [here](link-to-pdf).  
 
 ---  
 
 ## ✨ Features  
-✅ **Custom-built KNN & Decision Tree classifiers**  
-✅ **Dataset preprocessing & analysis**  
-✅ **Performance evaluation on multiple datasets**  
-✅ **Comprehensive LaTeX documentation**  
+- **Custom-built KNN & Decision Tree classifiers**  
+- **Dataset preprocessing & analysis**  
+- **Performance evaluation on multiple datasets**  
+- **Comprehensive LaTeX documentation**  
 
 ---  
 
