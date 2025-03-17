@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)  
 ![Last Commit](https://img.shields.io/github/last-commit/JackPW-lang/ML-KNN-DT-Classifiers)  
 
-🚀 **MLInstance-TreeClassifiers** is a **hands-on machine learning project** that dives deep into the fundamentals of classification models. Built from scratch, this repository features **K-Nearest Neighbors (KNN)** and **Decision Trees (DT)**, implemented with a focus on clarity and performance.  
+**MLInstance-TreeClassifiers** is a **hands-on machine learning project** that dives deep into the fundamentals of classification models. Built from scratch, this repository features **K-Nearest Neighbors (KNN)** and **Decision Trees (DT)**, implemented with a focus on clarity and performance.  
 
 ---  
 
