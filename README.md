@@ -9,7 +9,7 @@
 ---  
 
 ## 👥 Collaborators  
-This project was developed as part of the **COMP551 Machine Learning** course at **McGill University**.  
+This project was developed by:
 
 - **Jack Parry-Wingfield** - [GitHub Profile](https://github.com/JackPW-lang)  
 - **Alina Shimizu** - [GitHub Profile](https://github.com/alinashimizu)  
