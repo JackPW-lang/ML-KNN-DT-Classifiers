@@ -8,14 +8,14 @@
 
 ---  
 
-## 👥 Collaborators  
+## Collaborators  
 This project was developed by:
 
 - **Jack Parry-Wingfield** - [GitHub Profile](https://github.com/JackPW-lang)  
 - **Alina Shimizu** - [GitHub Profile](https://github.com/alinashimizu)  
 - **Lucas Andrade** - [GitHub Profile](https://github.com/lucasandrdd)  
 
-📄 **LaTeX Documentation**: You can find the detailed documentation [here](MLDocumentation1.pdf) 
+**LaTeX Documentation**: You can find the detailed documentation [here](MLDocumentation1.pdf) 
 
 ---  
 
