@@ -15,7 +15,7 @@ This project was developed by:
 - **Alina Shimizu** - [GitHub Profile](https://github.com/alinashimizu)  
 - **Lucas Andrade** - [GitHub Profile](https://github.com/lucasandrdd)  
 
-**LaTeX Documentation**: You can find the detailed documentation [here](MLDocumentation1.pdf) 
+**LaTeX Documentation**: You can find the detailed documentation [here](KNNDT.pdf) 
 
 ---  
 
