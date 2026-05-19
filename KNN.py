@@ -1,4 +1,4 @@
-#Initiation of the KNN Class, using the OOP paradigm specified in the assignment description
+#Initiation of the KNN Class, using the OOP paradigm
 
 class KNN:
 
