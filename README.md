@@ -32,8 +32,7 @@ This repository contains the following Python files:
 
 -  **The KNN class**  
 -  **The Decision Tree (DT) class**  
--  **Preprocessing & Experimentation**: Code for processing two datasets (one for binary classification, one for multi-class) and evaluating model performance.  
-  - 📂 **Run it yourself**: [Open in Google Colab](https://colab.research.google.com/drive/17jTorj3ApPJmvi3q3lzWWXd8XuMWXA5i#scrollTo=hPOusERmzsR1)   
+-  **Preprocessing & Experimentation**: Code for processing two datasets (one for binary classification, one for multi-class) and evaluating model performance.   
 
 📄 Detailed results and dataset preprocessing details are included in the documentation.  
 
